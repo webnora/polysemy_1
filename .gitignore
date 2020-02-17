@@ -1,0 +1,6 @@
+.ipy*
+.local
+.cache
+.jup*
+.npm
+
